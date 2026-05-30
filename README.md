@@ -15,9 +15,9 @@
 
 
 ### Open to work On
-DevOps Engineer| Cloud Infrastructure | 
-|---|---|
-| Azure + Terraform at production scale | Orchestration, distributed systems, GitOps |
+DevOps Engineer|
+|---|
+| AWS + Terraform at production scale | 
 ---
 
 ### 💬 Ask Me About
