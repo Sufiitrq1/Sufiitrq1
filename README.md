@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 <!-- Hello, World! -->
 
 ## DevOps Engineer
@@ -6,19 +6,18 @@
 
 ---
 
-### 🚦 Status
-- 🟢 Currently deploying **scalable web stacks & AI backends**
-- 🔵 Mastering **advanced Kubernetes orchestration** & distributed computing
-- 🟡 Certified on **KodeKloud** — always shipping
+### Status
+- Currently deploying **scalable web stacks & AI backends**
+- Mastering **advanced Kubernetes orchestration** & distributed computing
+- Certified on **KodeKloud** — always shipping
 
 ---
 
 
-### 🤝 Open to Collaborate On
-| ☁ Cloud Infrastructure | ◎ Kubernetes & DevOps | ⬡ AI Infra & RAG Apps |
-|---|---|---|
-| Azure + Terraform at production scale | Orchestration, distributed systems, GitOps | Deploying multimodal AI with vector backends |
-
+### Open to work On
+DevOps Engineer| Cloud Infrastructure | 
+|---|---|
+| Azure + Terraform at production scale | Orchestration, distributed systems, GitOps |
 ---
 
 ### 💬 Ask Me About
