@@ -9,7 +9,7 @@
 ### Status
 - Currently deploying **scalable web stacks & AI backends**
 - Mastering **advanced Kubernetes orchestration** & distributed computing
-- Certified on **KodeKloud** — always shipping
+- Certified on **KodeKloud** 
 
 ---
 
