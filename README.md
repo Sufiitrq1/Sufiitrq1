@@ -2,7 +2,7 @@
 <!-- Hello, World! -->
 
 ## DevOps Engineer
-> Automating infrastructure · Shipping reliable systems · Cloud-native on AWS & Kubernetes
+> Automating infrastructure | Shipping reliable systems | Cloud-native on AWS & Kubernetes
 
 ---
 
